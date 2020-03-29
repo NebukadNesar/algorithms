@@ -26,7 +26,7 @@ public class Main {
 		matrix.add(a5);
 
 		print(matrix);
-		matrixRotation2(matrix, 1);
+		matrixRotation2(matrix, 1); // matrix, rotation count
 	}
 
 	static void print(List<List<Integer>> matrix) {
